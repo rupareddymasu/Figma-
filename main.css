@@ -1,0 +1,430 @@
+.header {
+    display: flex;
+    background-color: #2f1893;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+   
+  }
+  
+   .blank {
+    background-color: rgba(47, 24, 147, 1);
+    position: relative;
+    width: 1400px;
+    height: 890px;
+    
+  }
+  
+   .form {
+    
+    width: 476px;
+    left: 715px;
+    height: 600px;
+    top: 187px;
+    position: absolute;
+    
+  }
+  
+ 
+  
+   .textt {
+    top: 547px;
+    left: 325px;
+    color: #25dac4;
+    line-height: 28px;
+    position: absolute;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0px;
+    white-space: nowrap;
+    font-style:  normal;
+  }
+  .group {
+    position: relative;
+    width: 470px;
+    height: 600px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+  }
+  
+  .Account {
+    position: absolute;
+    top: 529px;
+    left: 100px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 28px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+   .fill1 {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 449px;
+    left: 70px;
+    background-color: rgba(29, 161, 242, 1);
+    border-radius: 100px;
+  }
+  
+  .loginvia {
+    height: 26px;
+    top: 11px;
+    left: 96px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 26px;
+    position: absolute;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0px;
+    white-space: nowrap;
+    font-style:normal;
+  }
+  
+  .signin {
+    width: 330px;
+    height: 50px;
+    top: 338px;
+    left: 70px;
+    background-color: rgba(72, 43, 231, 1);
+    position: absolute;
+    border-radius: 100px;
+  }
+  
+   .signin1{
+    position: absolute;
+    height: 26px;
+    top: 11px;
+    left: 137px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color:  rgba(255, 255, 255, 1);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .or {
+    position: absolute;
+    width: 330px;
+    height: 26px;
+    top: 406px;
+    left: 69px;
+  }
+  
+  .text3 {
+    width: 157px;
+    height: 50px;
+    top: 480px;
+    left: 0;
+    background-color: rgba(233, 58, 125, 1);
+    position: absolute;
+    border-radius: 100px;
+  }
+
+  .text4 {
+    left: 265px;
+    position: absolute;
+    top: 7px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+   .text5 {
+    left: 196px;
+    position: absolute;
+    top: 7px;
+    font-family:  "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+   .text6 {
+    left: 113px;
+    position: absolute;
+    top: 7px;
+    font-family:  "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .text7 {
+    left: 0;
+    opacity: 0.3;
+    position: absolute;
+    top: 7px;
+    font-family:  "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .text8 {
+    position: absolute;
+    width: 111px;
+    height: 19px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .text9 {
+    position: relative;
+    height: 19px;
+  }
+  
+  .text10 {
+    position: absolute;
+    top: -7px;
+    left: 2px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.29px;
+    line-height: normal;
+  }
+  
+   .signup2 {
+    position: absolute;
+    height: 26px;
+    top: 11px;
+    left: 31px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing:0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .heading1 {
+    position: absolute;
+    width: 424px;
+    top: 0;
+    left: 3px;
+    font-family: "DMSans-Bold", Helvetica;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    font-size: 58px;
+    letter-spacing: -1px;
+    line-height: 70px;
+    font-style: normal;
+  }
+  
+  .header-menu {
+    position: absolute;
+    width: 972px;
+    height: 40px;
+    top: 65px;
+    left: 213px;
+  }
+  
+  .navbar {
+    position: absolute;
+    width: 511px;
+    height: 40px;
+    top: 0;
+    left: 469px;
+  }
+  
+  .purchase1 {
+    width: 120px;
+    height: 40px;
+    top: 0;
+    left: 383px;
+    background-color: rgba(233, 58, 125, 1);
+    position: absolute;
+    border-radius: 100px;
+  }
+  
+  .signup3 {
+    position: absolute;
+    height: 26px;
+    top: 6px;
+    left: 21px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+
+  .image1 {
+    position: absolute;
+    width: 144px;
+    height: 2px;
+    top: 11px;
+    left: 185px;
+  }
+  
+  .or1 {
+    position: absolute;
+    top: 0;
+    left: 155px;
+    opacity: 0.9;
+    font-family: "DMSans-Regular", Helvetica;
+    font-weight: 400;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .header .img {
+    position: absolute;
+    width: 144px;
+    height: 2px;
+    top: 11px;
+    left: -1px;
+  }
+  
+   .checkbox {
+    position: absolute;
+    width: 267px;
+    height: 26px;
+    top: 284px;
+    left: 70px;
+  }
+  
+  .termes {
+    position: absolute;
+    top: -17px;
+    left: 37px;
+    font-family: "DMSans-Regular", Helvetica;
+    font-weight: 400;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+   .on {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .password1 {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 204px;
+    left: 70px;
+    border-radius: 100px;
+    border: 2px solid;
+    border-color: rgba(235, 234, 237, 1);
+  }
+  
+  .password2 {
+    position: absolute;
+    height: 26px;
+    top: 9px;
+    left: 22px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height:26px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+  .email1 {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 134px;
+    left: 70px;
+    border-radius: 100px;
+    border: 2px solid;
+    border-color: rgba(235, 234, 237, 1);
+  }
+  
+   .signup1 {
+    position: absolute;
+    top: 48px;
+    left: 114px;
+    font-family: "DMSans-Bold", Helvetica;
+    font-weight:  700;
+    color: rgba(30, 14, 98, 1);
+    font-size:  42px;
+    text-align: center;
+    letter-spacing: -0.4000000059604645px;
+    line-height: 52px;
+    white-space: nowrap;
+    font-style: normal;
+  }
+  
+   .text {
+    position: absolute;
+    width: 431px;
+    height: 496px;
+    top: 219px;
+    left: 209px;
+  }
+  
+  .paragraph1 {
+    position: absolute;
+    width: 363px;
+    top: 241px;
+    left: 3px;
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    color:rgba(255, 255, 255, 1);
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    font-style: normal;
+  }
+
+  .right-line{
+    margin-left: 30px;
+  }
